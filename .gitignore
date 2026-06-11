@@ -1,0 +1,14 @@
+.wonderful/
+.claude/
+**/.env
+**/.env.*
+node_modules/
+**/dist/
+**/runner-dist/
+.DS_Store
+.secrets/
+*.p8
+snowflake.env
+.superpowers/
+.secrets/
+.worktrees/

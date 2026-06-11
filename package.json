@@ -1,0 +1,25 @@
+{
+  "name": "internal-apps",
+  "version": "1.0.0",
+  "description": "Wonderful internal apps for the CTO Office tenant (il-agent-configs, staffing) plus their backend functions and table provisioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderfulcx/internal-apps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wonderful/test": "^0.1.12",
+    "@wonderful/types": "^0.1.14",
+    "vitest": "^4.1.7"
+  },
+  "bugs": {
+    "url": "https://github.com/wonderfulcx/internal-apps/issues"
+  },
+  "homepage": "https://github.com/wonderfulcx/internal-apps#readme"
+}
