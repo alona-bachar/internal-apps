@@ -1,6 +1,7 @@
 .wonderful/
 .claude/*
 !.claude/skills/
+!.claude/settings.json
 **/.env
 **/.env.*
 node_modules/
