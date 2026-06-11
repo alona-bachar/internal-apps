@@ -1,5 +1,6 @@
 .wonderful/
-.claude/
+.claude/*
+!.claude/skills/
 **/.env
 **/.env.*
 node_modules/
